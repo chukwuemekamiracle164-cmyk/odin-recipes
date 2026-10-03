@@ -1,0 +1,195 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.index-body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+  url("https://img.pikbest.com/wp/202344/herbs-spices-aromatic-powder-and-exquisite-on-vintage-textured-background_9930346.jpg!w700wp");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  h1 {
+  color: #007bff;
+  text-align: center;
+  margin-top: 20px;
+}
+}
+
+
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  border-radius: 8px;
+  transition: color 0.3s ease, transform 0.3s ease;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #e0f0ff;
+  margin-bottom: 30px;
+}
+
+a:hover {
+  text-decoration: underline;
+  transform: scale(1.1);
+  color: darkblue;
+}
+
+.jollof-body {
+  font-family: Geaorgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  background-image:linear-gradient(rgba(207, 127, 127, 0.8),rgba(207, 127, 127, 0.8)),
+  url("https://images.unsplash.com/photo-1498837167922-ddd27525d352");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  h1, h2, h3, h4 {
+  color: red;
+  text-align: center;
+  margin-top: 20px;}
+
+  ul {
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: bold;}
+  
+  p {
+  color: black;
+  line-height: 1.6;
+  margin: 10px 0;
+  font-weight: bold;
+}
+}
+
+  
+
+.vegetable-body {
+  font-family: Geaorgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  background-image:linear-gradient(rgba(84, 108, 53, 0.8),rgba(84, 108, 53, 0.8)),
+  url("https://images.pexels.com/photos/5965986/pexels-photo-5965986.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  h1, h2, h3, h4 {
+  color: rgb(0, 51, 0);
+  text-align: center;
+  margin-top: 20px;}
+
+  ul {
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: bold;}
+  
+  p {
+  color: black;
+  line-height: 1.6;
+  margin: 10px 0;
+
+  font-weight: bold;
+ }
+}
+
+
+ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+  margin-bottom: 7px;
+}
+
+
+vegetable-body {
+  font-family: Geaorgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  background-image:linear-gradient(rgba(84, 108, 53, 0.8),rgba(84, 108, 53, 0.8)),
+  url("https://images.pexels.com/photos/5965986/pexels-photo-5965986.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  h1, h2, h3, h4 {
+  color: rgb(0, 51, 0);
+  text-align: center;
+  margin-top: 20px;}
+
+  ul {
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: bold;}
+  
+  p {
+  color: black;
+  line-height: 1.6;
+  margin: 10px 0;
+
+  font-weight: bold;
+ }
+}
+
+.egusi-body {
+  font-family: Geaorgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  background-image:linear-gradient(rgb(115, 104, 0),rgba(204, 201, 179, 0.8)),
+  url("https://images.unsplash.com/photo-1726241966218-d2a3380d0e63?auto=format&fit=crop&q=85&w=2000");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  h1, h2, h3, h4 {
+  color: yellow;
+  text-align: center;
+  margin-top: 20px;}
+
+  ul {
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: bold;}
+  
+  p {
+  color: black;
+  line-height: 1.6;
+  margin: 10px 0;
+
+  font-weight: bold;
+ }
+}
+
